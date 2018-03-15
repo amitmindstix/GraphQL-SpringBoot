@@ -9,3 +9,8 @@ gradlew*
 bin/
 **/.classpath
 .classpath
+.idea
+build
+target
+output
+bin
